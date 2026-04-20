@@ -7,7 +7,7 @@ This project focuses on practicing core frontend development concepts such as DO
 
 ## 🚀 Live Demo
 
-👉 [View Project](https://mustafakullab.github.io/special-design/)
+👉 [ [View Project](https://mustafakullab.github.io/special-design/)](https://interactive-landing-page-js.vercel.app/)
 
 ---
 
