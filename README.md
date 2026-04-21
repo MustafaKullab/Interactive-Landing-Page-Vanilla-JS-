@@ -1,4 +1,3 @@
-<img width="1901" height="916" alt="image" src="https://github.com/user-attachments/assets/976ef03f-fcb6-4093-96eb-5a8bf43db450" /># Special Design — Interactive Landing Page 🎨
 
 A responsive and interactive landing page built using **HTML, CSS, and Vanilla JavaScript**.  
 This project focuses on practicing core frontend development concepts such as DOM manipulation, events handling, and building interactive UI components.
@@ -43,7 +42,7 @@ This project was created as a hands-on practice to improve:
 
 ## 📸 Preview
 
-![Uploading لقطة شاشة 2026-04-21 130711.png…]()
+<img width="1901" height="916" alt="image" src="https://github.com/user-attachments/assets/976ef03f-fcb6-4093-96eb-5a8bf43db450" /># Special Design — Interactive Landing Page 🎨
 
 
 ---
