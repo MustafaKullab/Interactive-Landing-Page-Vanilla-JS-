@@ -42,7 +42,8 @@ This project was created as a hands-on practice to improve:
 
 ## 📸 Preview
 
-<img width="1901" height="916" alt="image" src="https://github.com/user-attachments/assets/976ef03f-fcb6-4093-96eb-5a8bf43db450" /># Special Design — Interactive Landing Page 🎨
+<img width="1901" height="916" alt="image" src="https://github.com/user-attachments/assets/976ef03f-fcb6-4093-96eb-5a8bf43db450" />
+# Special Design — Interactive Landing Page 🎨
 
 
 ---
